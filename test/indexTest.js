@@ -66,3 +66,13 @@ describe('employees', function() {
     });
   });
 });
+
+const object = {
+  employee: {
+    name: "David",
+    streetAdress: "11 Broadway"
+    
+
+  }
+
+}
